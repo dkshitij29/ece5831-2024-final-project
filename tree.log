@@ -1,7 +1,19 @@
 .
+├── Presentaions
+│   ├── ECE 5831Pattern Recognition And Neural Networks.pdf
+│   └── Project report.pdf
+├── checkpoints
+│   └── birds_results
+│       ├── disc_0.pth
+│       └── gen_0.pth
 ├── config.yaml
 ├── dataset
 │   └── birds.hdf5
+├── generated_images
+├── images
+│   ├── dcgan_network.png
+│   ├── success_birds.png
+│   └── success_flowers.png
 ├── model
 │   ├── __pycache__
 │   │   ├── gan_cls.cpython-310.pyc
@@ -24,11 +36,14 @@
 │   │   ├── txt2image_dataset.cpython-310.pyc
 │   │   └── utils.cpython-310.pyc
 │   ├── demo_text.py
+│   ├── generate_images.py
 │   ├── runtime.py
 │   ├── trainer.py
 │   ├── trainer_demo.py
 │   ├── txt2image_dataset.py
 │   └── utils.py
+├── temp.txt
+├── training_logs.npz
 └── tree.log
 
-9 directories, 23 files
+14 directories, 33 files

@@ -1,0 +1,34 @@
+.
+├── config.yaml
+├── dataset
+│   └── birds.hdf5
+├── model
+│   ├── __pycache__
+│   │   ├── gan_cls.cpython-310.pyc
+│   │   └── gan_factory.cpython-310.pyc
+│   ├── gan_cls.py
+│   └── gan_factory.py
+├── notebook.ipynb
+├── pytorch files
+│   ├── birds
+│   │   ├── disc_190.pth
+│   │   └── gen_190.pth
+│   └── birds_cls
+│       ├── disc_190.pth
+│       └── gen_190.pth
+├── readme.md
+├── requriments.txt
+├── src
+│   ├── __pycache__
+│   │   ├── trainer.cpython-310.pyc
+│   │   ├── txt2image_dataset.cpython-310.pyc
+│   │   └── utils.cpython-310.pyc
+│   ├── demo_text.py
+│   ├── runtime.py
+│   ├── trainer.py
+│   ├── trainer_demo.py
+│   ├── txt2image_dataset.py
+│   └── utils.py
+└── tree.log
+
+9 directories, 23 files

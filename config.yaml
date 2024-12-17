@@ -1,0 +1,3 @@
+# Birds CUB dataset
+# birds_dataset_path: '/datasets/ee285f-public/caltech_ucsd_birds/birds.hdf5'
+birds_dataset_path: '/Users/userd/Desktop/final_ml_project/dataset/birds.hdf5'
